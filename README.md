@@ -1,1 +1,1 @@
-# sca-teamcity-server
+# sca-bamboo-server
